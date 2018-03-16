@@ -10,7 +10,7 @@ body {
 
 header.startup h1 {
     font-size: 4rem;
-    margin-bottom: 80px;
+    margin-bottom: 30px;
 }
 
 h2 {
@@ -23,7 +23,7 @@ header.text-shadow {
 }
 
 hr {
-    /* width: 80px; */
+    width: 80px;
     max-width: 80px;
     border-width: 3px;
     border-color: #590808;
@@ -54,6 +54,13 @@ header.startup hr{
     margin-top: 330px;
 }
 
+.btn-primary:hover {
+    background-color: #590808;
+    border-color: #590808;
+    border-width: 5px;
+    cursor: pointer;
+}
+
 .btn-xl {
     padding: 1rem 2rem;
 }
@@ -63,9 +70,9 @@ header.startup hr{
     border-color: brown;
 }
 
-.btn-primary:hover {
+/* .btn-primary:hover {
     background-color: #590808;
     border-color: #590808;
     border-width: 5px;
     cursor: pointer;
-}
+} */
