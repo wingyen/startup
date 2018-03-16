@@ -42,9 +42,9 @@ header.startup hr{
     margin-bottom: 30px;
 } */
 
-/* #mc-embedded-subscribe-form {
-    text-align: center!important;
-} */
+#mc-embedded-signup form {
+    text-align: center;
+}
 
 .btn {
     font-family: 'Times New Roman', Times, serif;
