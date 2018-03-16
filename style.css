@@ -5,7 +5,6 @@ body,html {
 
 body {
     font-family: 'Dancing+Script', cursive;
-    margin-top: 100px;
     text-align: center;
 }
 
@@ -35,7 +34,7 @@ header.startup {
     background-position: center;
     background-image: url("chocolate-cake.jpg");
     background-size: cover;
-    height: 90%;
+    height: 100%;
 }
 /* 
 header.startup hr{
