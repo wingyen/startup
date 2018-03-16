@@ -23,7 +23,7 @@ header.text-shadow {
 }
 
 hr {
-    width: 80px;
+    /* width: 80px; */
     max-width: 80px;
     border-width: 3px;
     border-color: #590808;
